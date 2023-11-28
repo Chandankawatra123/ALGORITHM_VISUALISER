@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/TamimEhsan/AlgorithmVisualizer/master/Assets/homepage.JPG)
+![](![image](https://github.com/Chandankawatra123/ALGORITHM_VISUALISER/assets/100226305/a94d6ba3-1cc9-4e4e-b88f-52ed2013e341)
+)
 
 # Algorithm Visualizer
 
